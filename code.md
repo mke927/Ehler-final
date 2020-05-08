@@ -34,4 +34,6 @@ Paths in the image also contain info related to stroke color, thickness, bend, a
 
 Here is a short blog post on how to create a vector image with simple markup language: [Vector based graphics in HTML and CSS](http://www.callumhart.com/blog/vector-based-graphics-in-html-and-css)
 
+It is also common practice to convert raster images into a vector so that the image can be scaled without the loss in resolution. Adobe Illustrator is used often for this purpose and a tutorial can be found here: [Click to navigate to tutorial](https://www.youtube.com/watch?v=gaoBr7SzF-c)
+
 The common file type now used for vector graphics is an SVG. This stands for **Scalable Vector Graphic**.
