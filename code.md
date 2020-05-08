@@ -1,6 +1,6 @@
 # Raster Images (Bitmap Images)
 
-![Example Image](https://www.google.com/search?q=raster+images&tbm=isch&ved=2ahUKEwisp-j-gKXpAhUX_6wKHWNIB_8Q2-cCegQIABAA&oq=raster+images&gs_lcp=CgNpbWcQAzIECAAQQzICCAAyAggAMgIIADICCAAyBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeUOaFPViojD1grpE9aABwAHgAgAGrAYgB5QWSAQMwLjWYAQCgAQGqAQtnd3Mtd2l6LWltZw&sclient=img&ei=3rO1XqzAL5f-swXjkJ34Dw&bih=892&biw=1600#imgrc=joU4YJbZofiAxM)
+![Example Image](https://www.printcnx.com/wp-content/uploads/raster.jpg)
 
 
 Raster Images are made up of a rectangular grid of pixels. Each pixels color is specified by a number of bits.
