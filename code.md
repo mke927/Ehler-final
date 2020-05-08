@@ -3,21 +3,21 @@
 ![Example Image](https://www.printcnx.com/wp-content/uploads/raster.jpg)
 
 
-Raster Images are made up of a rectangular grid of pixels. Each pixels color is specified by a number of bits.
+Raster Images are made up of a rectangular grid of pixels. Each pixels color is specified by a number of bits. This is called a **bitmap**, a digital image composed of a matrix of dots.
 
 Most commonly used for:
 
 1. Computer displays
-2. Image storage
+2. Image storage (JPEG, PNG, ETC.)
 
-Computer displays, also referred to as bitmapped displays because each pixel on the screen is a small number of bits in memory.
+Computer displays, also referred to as bitmapped displays because each pixel on the screen is a small number of bits in memory. Smartphones, digital cameras, along with computers, are where the raster image is predominantly encountered.
 
 Raster images are **resolution dependent**. Meaning that the images cannot be scaled up to a higher resolution without a loss of quality.
 
 Here is an image that shows this loss of quality as one part of the image was made larger.
 ![Example image](https://vector-conversions.com/images/raster_vs_vector_1.jpg)
 
-Raster images are most commonly generated in software tools like MS Paint and Adobe Photoshop and will often be saved in file formats that include JPEG, PNG, and GIF among others.
+Raster images are most commonly found in software tools like MS Paint and Adobe Photoshop and will often be saved in file formats that include JPEG, PNG, and GIF among others.
 
 
 # Vector Image Graphics
