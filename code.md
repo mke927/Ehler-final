@@ -22,6 +22,8 @@ Raster images are most commonly generated in software tools like MS Paint and Ad
 
 # Vector Image Graphics
 
+![Example image](https://www.dignitasdigital.com/wp-content/uploads/2017/12/example-of-vector-graphic-image.jpg)
+
 Vectors are computer graphic images that are defined by 2D points, connected by lines and curves to form shapes.
 
 Each 2D point has a single position along an x and y axis. Unlike Raster images, Vector graphics can be scaled up without a loss in resolution.
