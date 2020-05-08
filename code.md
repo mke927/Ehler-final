@@ -26,8 +26,12 @@ Raster images are most commonly generated in software tools like MS Paint and Ad
 
 Vectors are computer graphic images that are defined by 2D points, connected by lines and curves to form shapes.
 
+![Example image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWi68_oev_9VRFgLARJmcgvM4gd3yx15ZJr6vdhvHrxOdZCWiK&usqp=CAU)
+
 Each 2D point has a single position along an x and y axis. Unlike Raster images, Vector graphics can be scaled up without a loss in resolution.
 
 Paths in the image also contain info related to stroke color, thickness, bend, and fill.
+
+Here is a short blog post on how to create a vector image with simple markup language: [Vector based graphics in HTML and CSS](http://www.callumhart.com/blog/vector-based-graphics-in-html-and-css)
 
 The common file type now used for vector graphics is an SVG. This stands for **Scalable Vector Graphic**.
